@@ -1,4 +1,4 @@
-2d4eb5647b9747dee8f87174e98b2753 *DESCRIPTION
+492e6ed21a9f6e5be67b361e4d8cac44 *DESCRIPTION
 4b236268e96fe528283dcf3061e0c35d *NAMESPACE
 963f10e8319f1563513d73af59b632fa *R/biv.plot.r
 c606fcd9dbb95d3175a925649df4d754 *R/biv.test.r
@@ -16,7 +16,7 @@ a9c44125ea2e9ae8068e7713d3a35f37 *R/gnesfa.r
 9a54332ef9c9752e15381af99e016b67 *R/kplot.kselect.r
 30d67422cb4bda358fcfe6446dae45f0 *R/kselect.r
 95fa57e66208520b790e74d768a5bcf0 *R/madifa.r
-97e2d109e6809a47661a1b865cbeceaa *R/mahasuhab.r
+f2f3e636f2c679cba3bcc78427917f4a *R/mahasuhab.r
 5bfe2b5651bcc8d14532a3c1802d2c5f *R/niche.test.r
 e76c972462dd700faa736a5ffc3431cf *R/plot.kselect.r
 f889a861f5bd959ba2bee73bcd9c2daf *R/plot.wi.r
@@ -64,7 +64,7 @@ d19323a861f3dcfa1964fb36beeb2fe7 *man/engen2008II.Rd
 8e623f8701569b7a60a8836f4bac38dd *man/histniche.Rd
 6bcbd4d3324c599579b27ec23c40564a *man/kselect.Rd
 3c250c7460d36df827fcaf89932102cd *man/madifa.Rd
-0c491b1d8ade701e25520c82895d7c92 *man/mahasuhab.Rd
+3c4f42d8ce8b4c380dc3f33bd51e07ad *man/mahasuhab.Rd
 464227f4979f4b80e52b604830a1200f *man/niche.test.Rd
 8350efd2873c1f7044e19cf3a9d7ced0 *man/pheasant.Rd
 9cab86f378f66ec96a108f389390e133 *man/predict.enfa.Rd
@@ -79,6 +79,6 @@ fcef38e1d0dd145caef533c0b6e518ea *man/squirreloc.Rd
 b173e92a8d5633f3b12f2e2d368566e7 *man/vanoise.Rd
 6b4c9d536d554214b493e310c7431f01 *man/wi.Rd
 4c08fa21f71da783a0c88f2ced93fe3a *src/init.c
-019411e89a8549abe3292a0e31a49610 *src/tests.c
+20ba06f272c681329333d04f65e3170a *src/tests.c
 214f19bb0b815fd33876784e8450c9a9 *vignettes/adehabitatHS.Rnw
 deea1daac244857e8ff26a0e226b7cfa *vignettes/exva.png

@@ -1,6 +1,6 @@
 Package: adehabitatHS
-Version: 0.3.15
-Date: 2020-01-11
+Version: 0.3.16
+Date: 2022-10-19
 Depends: R (>= 3.0.1), sp, methods, ade4, adehabitatMA, adehabitatHR
 Suggests: maptools, tkrplot, MASS, rgeos
 Imports: graphics, grDevices, stats
@@ -10,6 +10,6 @@ Maintainer: Clement Calenge <clement.calenge@ofb.gouv.fr>
 Description: A collection of tools for the analysis of habitat selection.
 License: GPL (>= 2)
 NeedsCompilation: yes
-Packaged: 2020-01-12 21:01:19 UTC; calenge
+Packaged: 2022-10-20 15:58:08 UTC; calenge
 Repository: CRAN
-Date/Publication: 2020-01-13 19:10:02 UTC
+Date/Publication: 2022-10-21 11:55:10 UTC
